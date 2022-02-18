@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "ojos",
+      "value" : "grandes"
+    }, {
+      "trait_type" : "orejas",
+      "value" : "altas"
+    } ],
+    "description" : "un perrito hermoso.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmfQEVTx8T3DcRUDuJvDKvVhzud6vXLLVUHSuyVJy1nf41",
+    "name" : "perro malisimo"
+}

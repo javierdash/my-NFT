@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "color",
+      "value" : "marrón"
+    }, {
+      "trait_type" : "Dulce",
+      "value" : "muy"
+    } ],
+    "description" : "The world's most adorable and sensitive pup.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmPoGvoo4BpKSwR651DaUBDXUevJodiwHTmyoymKovkpa5",
+    "name" : "Monito Titi"
+}
